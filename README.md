@@ -7,6 +7,8 @@ Spring Boot based API to learn and experiment 🧪
 * H2 DB connection setup
 * User Model
 ### Pending
+* Unit test suite. (JUnit and Mockito)
 * POST User endpoint
+* CI (lint, unit-test)
 * GET User endpoint
 * Security
