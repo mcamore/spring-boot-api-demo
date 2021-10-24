@@ -1,4 +1,4 @@
-package com.example.demo.domain;
+package io.mcamore.demoApi.domain;
 
 import lombok.Data;
 
